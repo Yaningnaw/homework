@@ -41,6 +41,8 @@ git push origin hotfix:newfeature
 
 本地仓库分支名称和远程仓库分支名称一样的情况下可以简写成一个，即git push “仓库地址” “分支名称”，如果远程仓库没有对应分支，将会自动创建
 
+
+
 git remote add “主机名称” “远程仓库地址”添加远程主机，即给远程主机起个别名，方便使用
 
 git remote 可以查看已添加的远程主机
